@@ -1,0 +1,12 @@
+pdfminer.six
+pyresparser
+streamlit
+pandas
+pafy
+plotly
+pymysql
+streamlit-tags
+Pillow
+flask
+flask_cors
+spacy==2.3.8
